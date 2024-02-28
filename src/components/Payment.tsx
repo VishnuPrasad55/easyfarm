@@ -93,7 +93,7 @@ const Payment: React.FC = () => {
       {paymentDone && (
         <Box mt={6} p={4} bg="green.100" borderRadius="md">
           <Text fontSize="lg" fontWeight="bold">
-            Payment done successfully! Thank you for your purchase. hiiii
+            Payment done successfully! Thank you for your purchase.
           </Text>
         </Box>
       )}
