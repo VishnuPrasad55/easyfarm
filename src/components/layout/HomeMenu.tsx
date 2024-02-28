@@ -12,7 +12,7 @@ export default function HomeMenu() {
     <section className="relative">
       <div className="absolute top-0 left-0 right-0 flex justify-start"></div>
 
-      <Head subtitle="Deals" title="Product" />
+      <Head subtitle="" title="Product" />
 
       <div className='grid grid-cols-3 gap-4 pt-4'>
         <ProductCard bg={bg} image="/dragon.png" title="Dragon Fruit" />
